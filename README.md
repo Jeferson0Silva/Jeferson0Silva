@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jeff</h1>
-<h3 align="center">Future developer from Brazil</h3>
-- 🚀 Currently focusing on Front-end development.
-
+<h1 >Hi 👋, I'm Jeff</h1>
+<h3 >Future developer from Brazil</h3>
+<p> Currently focusing on Front-end development.</p>
+##
 <div>
   <a href="https://github.com/Jeferson0Silva">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeferson0Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
