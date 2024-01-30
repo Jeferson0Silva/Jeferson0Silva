@@ -1,4 +1,6 @@
-### Hi guys!
+<h1 align="center">Hi 👋, I'm Jeff</h1>
+<h3 align="center">Future developer from Brazil</h3>
+- 🚀 Currently focusing on Front-end development.
 
 <div>
   <a href="https://github.com/Jeferson0Silva">
@@ -16,7 +18,3 @@
 <div>
   <a href = "mailto:jefersonsas12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
-
-  
-
